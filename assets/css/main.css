@@ -3020,8 +3020,7 @@ input, select, textarea {
 			.spotlight .project-img img {
 				display: block;
 				margin-left: 50px;
-				margin-right: -80px;
-				width: 37em;
+				width: 36em;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3796,8 +3795,3 @@ input, select, textarea {
 			}
 
 		}
-
-
-	.project-section {
-		display: flex;
-	}
