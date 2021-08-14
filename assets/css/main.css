@@ -2372,7 +2372,7 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
-		max-width: 100%;
+		max-width: 70%;
 	}
 
 		.image img {
@@ -3789,3 +3789,8 @@ input, select, textarea {
 			}
 
 		}
+
+
+	.project-section {
+		display: flex;
+	}
