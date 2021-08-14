@@ -2,3 +2,7 @@ body {
     background-color: #1A2990;
     background-image: url("images/body-background.jpg");
 }
+
+.button {
+    font-weight: bold;
+}
